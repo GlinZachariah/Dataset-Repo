@@ -1,0 +1,24 @@
+{
+    "company_name": "Celldex Therapeutics, Inc. (CLDX) Quote & Summary Data",
+    "ticker": "cldx",
+    "url": "http://www.nasdaq.com/symbol/cldx",
+    "open price": "$ 0.51",
+    "open_date": "Feb. 1, 2019",
+    "close_price": "$ 0.5787",
+    "close_date": "Feb. 1, 2019",
+    "key_stock_data": {
+        "Best Bid / Ask": "N/A / N/A",
+        "1 Year Target": "2.15",
+        "Today's High / Low": "$ 0.59 / $ 0.51",
+        "Share Volume": "10,605,546",
+        "50 Day Avg. Daily Volume": "1,644,949",
+        "Previous Close": "$ 0.5078",
+        "52 Week High / Low": "$ 2.86 / $ 0.183",
+        "Market Cap": "99,805,824",
+        "Annualized Dividend": "N/A",
+        "Ex Dividend Date": "N/A",
+        "Dividend Payment Date": "N/A",
+        "Current Yield": "0 %",
+        "Beta": "-0.34"
+    }
+}

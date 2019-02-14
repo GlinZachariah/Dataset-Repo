@@ -1,0 +1,24 @@
+{
+    "company_name": "Phio Pharmaceuticals Corp. Common Stock (PHIO) Quote & Summary Data",
+    "ticker": "phio",
+    "url": "http://www.nasdaq.com/symbol/phio",
+    "open price": "$ 0.37",
+    "open_date": "Feb. 1, 2019",
+    "close_price": "$ 0.3771",
+    "close_date": "Feb. 1, 2019",
+    "key_stock_data": {
+        "Best Bid / Ask": "N/A / N/A",
+        "1 Year Target": "2",
+        "Today's High / Low": "$ 0.381 / $ 0.3609",
+        "Share Volume": "720,054",
+        "50 Day Avg. Daily Volume": "372,939",
+        "Previous Close": "$ 0.365",
+        "52 Week High / Low": "$ 6.76 / $ 0.27",
+        "Market Cap": "6,849,779",
+        "Annualized Dividend": "N/A",
+        "Ex Dividend Date": "N/A",
+        "Dividend Payment Date": "N/A",
+        "Current Yield": "0 %",
+        "Beta": "0"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "company_name": "NVIDIA Corporation Common Stock (NVDA) Quote & Summary Data",
+    "ticker": "nvda",
+    "url": "http://www.nasdaq.com/symbol/nvda",
+    "open price": "$ 137.26",
+    "open_date": "Jan. 31, 2019",
+    "close_price": "$ 143.75",
+    "close_date": "Jan. 31, 2019",
+    "key_stock_data": {
+        "Best Bid / Ask": "N/A / N/A",
+        "1 Year Target": "200",
+        "Today's High / Low": "$ 145.19 / $ 136.3832",
+        "Share Volume": "21,066,823",
+        "50 Day Avg. Daily Volume": "19,876,707",
+        "Previous Close": "$ 137.39",
+        "52 Week High / Low": "$ 292.76 / $ 124.46",
+        "Market Cap": "87,687,500,000",
+        "P/E Ratio": "19.19",
+        "Forward P/E (1y)": "22.90",
+        "Earnings Per Share (EPS)": "$ 7.49",
+        "Annualized Dividend": "$ .64",
+        "Ex Dividend Date": "11/29/2018",
+        "Dividend Payment Date": "12/21/2018",
+        "Current Yield": "0.49 %",
+        "Beta": "1.99"
+    }
+}

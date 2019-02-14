@@ -1,0 +1,27 @@
+{
+    "company_name": "Symantec Corporation Common Stock (SYMC) Quote & Summary Data",
+    "ticker": "symc",
+    "url": "http://www.nasdaq.com/symbol/symc",
+    "open price": "$ 19.78",
+    "open_date": "Jan. 10, 2019",
+    "close_price": "$ 20.07",
+    "close_date": "Jan. 10, 2019",
+    "key_stock_data": {
+        "Best Bid / Ask": "N/A / N/A",
+        "1 Year Target": "21",
+        "Today's High / Low": "$ 20.15 / $ 19.675",
+        "Share Volume": "5,959,577",
+        "50 Day Avg. Daily Volume": "8,538,999",
+        "Previous Close": "$ 19.93",
+        "52 Week High / Low": "$ 29.515 / $ 17.425",
+        "Market Cap": "12,822,490,971",
+        "P/E Ratio": "10.91",
+        "Forward P/E (1y)": "19.93",
+        "Earnings Per Share (EPS)": "$ 1.84",
+        "Annualized Dividend": "$ .30",
+        "Ex Dividend Date": "11/16/2018",
+        "Dividend Payment Date": "12/12/2018",
+        "Current Yield": "1.53 %",
+        "Beta": "0.37"
+    }
+}

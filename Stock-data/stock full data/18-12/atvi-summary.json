@@ -1,0 +1,27 @@
+{
+    "company_name": "Activision Blizzard, Inc. Common Stock (ATVI) Quote & Summary Data",
+    "ticker": "atvi",
+    "url": "http://www.nasdaq.com/symbol/atvi",
+    "open price": "$ 47.36",
+    "open_date": "Dec. 18, 2018",
+    "close_price": "$ 47.32",
+    "close_date": "Dec. 18, 2018",
+    "key_stock_data": {
+        "Best Bid / Ask": "$ 47.07 / $ 47.30",
+        "1 Year Target": "74",
+        "Today's High / Low": "$ 47.85 / $ 46.78",
+        "Share Volume": "8,776,092",
+        "50 Day Avg. Daily Volume": "11,248,781",
+        "Previous Close": "$ 47.08",
+        "52 Week High / Low": "$ 84.6794 / $ 45.50",
+        "Market Cap": "36,107,559,976",
+        "P/E Ratio": "63.95",
+        "Forward P/E (1y)": "20.04",
+        "Earnings Per Share (EPS)": "$ 0.74",
+        "Annualized Dividend": "$ .34",
+        "Ex Dividend Date": "3/28/2018",
+        "Dividend Payment Date": "5/9/2018",
+        "Current Yield": "0.71 %",
+        "Beta": "1.55"
+    }
+}

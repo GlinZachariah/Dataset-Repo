@@ -1,0 +1,27 @@
+{
+    "company_name": "Ctrip.com International, Ltd. American Depositary Shares (CTRP) Quote & Summary Data",
+    "ticker": "ctrp",
+    "url": "http://www.nasdaq.com/symbol/ctrp",
+    "open price": "$ 29.24",
+    "open_date": "Jan. 8, 2019",
+    "close_price": "$ 29.48",
+    "close_date": "Jan. 8, 2019",
+    "key_stock_data": {
+        "Best Bid / Ask": "N/A / N/A",
+        "1 Year Target": "38",
+        "Today's High / Low": "$ 29.92 / $ 28.47",
+        "Share Volume": "4,245,685",
+        "50 Day Avg. Daily Volume": "5,597,734",
+        "Previous Close": "$ 29.18",
+        "52 Week High / Low": "$ 51.91 / $ 25",
+        "Market Cap": "15,942,938,239",
+        "P/E Ratio": "40.94",
+        "Forward P/E (1y)": "39.43",
+        "Earnings Per Share (EPS)": "$ 0.72",
+        "Annualized Dividend": "N/A",
+        "Ex Dividend Date": "N/A",
+        "Dividend Payment Date": "N/A",
+        "Current Yield": "0 %",
+        "Beta": "0.95"
+    }
+}

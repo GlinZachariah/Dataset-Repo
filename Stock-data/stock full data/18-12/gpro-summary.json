@@ -1,0 +1,27 @@
+{
+    "company_name": "GoPro, Inc. Class A Common Stock (GPRO) Quote & Summary Data",
+    "ticker": "gpro",
+    "url": "http://www.nasdaq.com/symbol/gpro",
+    "open price": "$ 4.63",
+    "open_date": "Dec. 18, 2018",
+    "close_price": "$ 4.63",
+    "close_date": "Dec. 18, 2018",
+    "key_stock_data": {
+        "Best Bid / Ask": "$ 4.59 / $ 4.74",
+        "1 Year Target": "6.35",
+        "Today's High / Low": "$ 4.75 / $ 4.61",
+        "Share Volume": "3,517,789",
+        "50 Day Avg. Daily Volume": "4,390,965",
+        "Previous Close": "$ 4.57",
+        "52 Week High / Low": "$ 8.265 / $ 4.42",
+        "Market Cap": "694,502,421",
+        "P/E Ratio": "NE",
+        "Forward P/E (1y)": "NE",
+        "Earnings Per Share (EPS)": "$ -1.42",
+        "Annualized Dividend": "N/A",
+        "Ex Dividend Date": "N/A",
+        "Dividend Payment Date": "N/A",
+        "Current Yield": "0 %",
+        "Beta": "0.75"
+    }
+}

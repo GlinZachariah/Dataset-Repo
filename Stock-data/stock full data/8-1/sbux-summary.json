@@ -1,0 +1,27 @@
+{
+    "company_name": "Starbucks Corporation Common Stock (SBUX) Quote & Summary Data",
+    "ticker": "sbux",
+    "url": "http://www.nasdaq.com/symbol/sbux",
+    "open price": "$ 63.94",
+    "open_date": "Jan. 8, 2019",
+    "close_price": "$ 63.62",
+    "close_date": "Jan. 8, 2019",
+    "key_stock_data": {
+        "Best Bid / Ask": "N/A / N/A",
+        "1 Year Target": "65",
+        "Today's High / Low": "$ 64.29 / $ 63.05",
+        "Share Volume": "10,746,080",
+        "50 Day Avg. Daily Volume": "13,994,695",
+        "Previous Close": "$ 63.57",
+        "52 Week High / Low": "$ 68.98 / $ 47.37",
+        "Market Cap": "78,926,972,000",
+        "P/E Ratio": "19.82",
+        "Forward P/E (1y)": "24.08",
+        "Earnings Per Share (EPS)": "$ 3.21",
+        "Annualized Dividend": "$ 1.44",
+        "Ex Dividend Date": "11/14/2018",
+        "Dividend Payment Date": "11/30/2018",
+        "Current Yield": "2.27 %",
+        "Beta": "0.9"
+    }
+}

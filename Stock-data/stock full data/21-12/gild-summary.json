@@ -1,0 +1,27 @@
+{
+    "company_name": "Gilead Sciences, Inc. Common Stock (GILD) Quote & Summary Data",
+    "ticker": "gild",
+    "url": "http://www.nasdaq.com/symbol/gild",
+    "open price": "$ 64.49",
+    "open_date": "Dec. 21, 2018",
+    "close_price": "$ 62.62",
+    "close_date": "Dec. 21, 2018",
+    "key_stock_data": {
+        "Best Bid / Ask": "N/A / N/A",
+        "1 Year Target": "88.5",
+        "Today's High / Low": "$ 66.09 / $ 62.25",
+        "Share Volume": "17,586,151",
+        "50 Day Avg. Daily Volume": "7,582,696",
+        "Previous Close": "$ 64.30",
+        "52 Week High / Low": "$ 89.54 / $ 63.3484",
+        "Market Cap": "81,006,460,103",
+        "P/E Ratio": "52.18",
+        "Forward P/E (1y)": "9.98",
+        "Earnings Per Share (EPS)": "$ 1.20",
+        "Annualized Dividend": "$ 2.28",
+        "Ex Dividend Date": "12/13/2018",
+        "Dividend Payment Date": "12/28/2018",
+        "Current Yield": "3.55 %",
+        "Beta": "1.05"
+    }
+}

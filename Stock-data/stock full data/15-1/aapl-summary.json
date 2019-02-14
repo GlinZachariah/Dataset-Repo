@@ -1,0 +1,27 @@
+{
+    "company_name": "Apple Inc. Common Stock (AAPL) Quote & Summary Data",
+    "ticker": "aapl",
+    "url": "http://www.nasdaq.com/symbol/aapl",
+    "open price": "$ 150.28",
+    "open_date": "Jan. 15, 2019",
+    "close_price": "$ 153.07",
+    "close_date": "Jan. 15, 2019",
+    "key_stock_data": {
+        "Best Bid / Ask": "N/A / N/A",
+        "1 Year Target": "197.5",
+        "Today's High / Low": "$ 153.39 / $ 150.05",
+        "Share Volume": "28,710,324",
+        "50 Day Avg. Daily Volume": "46,437,613",
+        "Previous Close": "$ 150",
+        "52 Week High / Low": "$ 233.47 / $ 142",
+        "Market Cap": "723,990,945,210",
+        "P/E Ratio": "12.9",
+        "Forward P/E (1y)": "12.40",
+        "Earnings Per Share (EPS)": "$ 11.87",
+        "Annualized Dividend": "$ 2.92",
+        "Ex Dividend Date": "11/8/2018",
+        "Dividend Payment Date": "11/15/2018",
+        "Current Yield": "1.92 %",
+        "Beta": "1.02"
+    }
+}

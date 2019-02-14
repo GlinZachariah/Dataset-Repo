@@ -1,0 +1,27 @@
+{
+    "company_name": "Microsoft Corporation Common Stock (MSFT) Quote & Summary Data",
+    "ticker": "msft",
+    "url": "http://www.nasdaq.com/symbol/msft",
+    "open price": "$ 99.30",
+    "open_date": "Dec. 27, 2018",
+    "close_price": "$ 101.18",
+    "close_date": "Dec. 27, 2018",
+    "key_stock_data": {
+        "Best Bid / Ask": "N/A / N/A",
+        "1 Year Target": "125",
+        "Today's High / Low": "$ 101.19 / $ 96.40",
+        "Share Volume": "49,456,204",
+        "50 Day Avg. Daily Volume": "42,435,582",
+        "Previous Close": "$ 100.56",
+        "52 Week High / Low": "$ 116.18 / $ 83.83",
+        "Market Cap": "776,679,811,708",
+        "P/E Ratio": "41.98",
+        "Forward P/E (1y)": "22.70",
+        "Earnings Per Share (EPS)": "$ 2.41",
+        "Annualized Dividend": "$ 1.84",
+        "Ex Dividend Date": "2/20/2019",
+        "Dividend Payment Date": "3/14/2019",
+        "Current Yield": "1.95 %",
+        "Beta": "1.33"
+    }
+}

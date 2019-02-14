@@ -1,0 +1,27 @@
+{
+    "company_name": "Comcast Corporation Class A Common Stock (CMCSA) Quote & Summary Data",
+    "ticker": "cmcsa",
+    "url": "http://www.nasdaq.com/symbol/cmcsa",
+    "open price": "$ 33.47",
+    "open_date": "Jan. 2, 2019",
+    "close_price": "$ 34.37",
+    "close_date": "Jan. 2, 2019",
+    "key_stock_data": {
+        "Best Bid / Ask": "N/A / N/A",
+        "1 Year Target": "44",
+        "Today's High / Low": "$ 34.45 / $ 33.42",
+        "Share Volume": "16,767,788",
+        "50 Day Avg. Daily Volume": "22,967,484",
+        "Previous Close": "$ 34.05",
+        "52 Week High / Low": "$ 44 / $ 30.43",
+        "Market Cap": "156,366,478,911",
+        "P/E Ratio": "6.69",
+        "Forward P/E (1y)": "13.46",
+        "Earnings Per Share (EPS)": "$ 5.14",
+        "Annualized Dividend": "$ .76",
+        "Ex Dividend Date": "12/31/2018",
+        "Dividend Payment Date": "1/23/2019",
+        "Current Yield": "2.23 %",
+        "Beta": "0.85"
+    }
+}

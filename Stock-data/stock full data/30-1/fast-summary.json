@@ -1,0 +1,27 @@
+{
+    "company_name": "Fastenal Company Common Stock (FAST) Quote & Summary Data",
+    "ticker": "fast",
+    "url": "http://www.nasdaq.com/symbol/fast",
+    "open price": "$ 59.87",
+    "open_date": "Jan. 30, 2019",
+    "close_price": "$ 60.19",
+    "close_date": "Jan. 30, 2019",
+    "key_stock_data": {
+        "Best Bid / Ask": "N/A / N/A",
+        "1 Year Target": "60",
+        "Today's High / Low": "$ 60.525 / $ 59.32",
+        "Share Volume": "2,264,935",
+        "50 Day Avg. Daily Volume": "3,206,102",
+        "Previous Close": "$ 59.54",
+        "52 Week High / Low": "$ 61.14 / $ 47.37",
+        "Market Cap": "17,208,436,505",
+        "P/E Ratio": "22.89",
+        "Forward P/E (1y)": "21.19",
+        "Earnings Per Share (EPS)": "$ 2.63",
+        "Annualized Dividend": "$ 1.72",
+        "Ex Dividend Date": "1/30/2019",
+        "Dividend Payment Date": "2/27/2019",
+        "Current Yield": "2.69 %",
+        "Beta": "0.94"
+    }
+}

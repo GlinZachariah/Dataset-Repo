@@ -1,0 +1,27 @@
+{
+    "company_name": "Marvell Technology Group Ltd. Common Stock (MRVL) Quote & Summary Data",
+    "ticker": "mrvl",
+    "url": "http://www.nasdaq.com/symbol/mrvl",
+    "open price": "$ 18.46",
+    "open_date": "Feb. 4, 2019",
+    "close_price": "$ 18.57",
+    "close_date": "Feb. 4, 2019",
+    "key_stock_data": {
+        "Best Bid / Ask": "N/A / N/A",
+        "1 Year Target": "25",
+        "Today's High / Low": "$ 18.63 / $ 18.25",
+        "Share Volume": "5,047,711",
+        "50 Day Avg. Daily Volume": "11,727,644",
+        "Previous Close": "$ 18.41",
+        "52 Week High / Low": "$ 25.18 / $ 14.34",
+        "Market Cap": "12,207,918,000",
+        "P/E Ratio": "66.32",
+        "Forward P/E (1y)": "19.80",
+        "Earnings Per Share (EPS)": "$ 0.28",
+        "Annualized Dividend": "$ .24",
+        "Ex Dividend Date": "12/24/2018",
+        "Dividend Payment Date": "1/15/2019",
+        "Current Yield": "1.30 %",
+        "Beta": "1.46"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "company_name": "Plug Power, Inc. Common Stock (PLUG) Quote & Summary Data",
+    "ticker": "plug",
+    "url": "http://www.nasdaq.com/symbol/plug",
+    "open price": "$ 1.36",
+    "open_date": "Dec. 17, 2018",
+    "close_price": "$ 1.37",
+    "close_date": "Dec. 17, 2018",
+    "key_stock_data": {
+        "Best Bid / Ask": "N/A / N/A",
+        "1 Year Target": "2.875",
+        "Today's High / Low": "$ 1.3896 / $ 1.28",
+        "Share Volume": "3,407,798",
+        "50 Day Avg. Daily Volume": "1,989,678",
+        "Previous Close": "$ 1.37",
+        "52 Week High / Low": "$ 2.48 / $ 1.37",
+        "Market Cap": "303,401,922",
+        "Annualized Dividend": "N/A",
+        "Ex Dividend Date": "N/A",
+        "Dividend Payment Date": "N/A",
+        "Current Yield": "0 %",
+        "Beta": "1.68"
+    }
+}

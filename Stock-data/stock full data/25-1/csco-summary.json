@@ -1,0 +1,27 @@
+{
+    "company_name": "Cisco Systems, Inc. Common Stock (CSCO) Quote & Summary Data",
+    "ticker": "csco",
+    "url": "http://www.nasdaq.com/symbol/csco",
+    "open price": "$ 46",
+    "open_date": "Jan. 25, 2019",
+    "close_price": "$ 46.13",
+    "close_date": "Jan. 25, 2019",
+    "key_stock_data": {
+        "Best Bid / Ask": "N/A / N/A",
+        "1 Year Target": "52",
+        "Today's High / Low": "$ 46.66 / $ 45.95",
+        "Share Volume": "24,198,137",
+        "50 Day Avg. Daily Volume": "27,047,324",
+        "Previous Close": "$ 45.61",
+        "52 Week High / Low": "$ 49.47 / $ 37.35",
+        "Market Cap": "207,398,714,605",
+        "P/E Ratio": "128.14",
+        "Forward P/E (1y)": "16.89",
+        "Earnings Per Share (EPS)": "$ 0.36",
+        "Annualized Dividend": "$ 1.32",
+        "Ex Dividend Date": "1/3/2019",
+        "Dividend Payment Date": "1/23/2019",
+        "Current Yield": "2.90 %",
+        "Beta": "1.28"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "company_name": "Fifth Third Bancorp Common Stock (FITB) Quote & Summary Data",
+    "ticker": "fitb",
+    "url": "http://www.nasdaq.com/symbol/fitb",
+    "open price": "$ 27.15",
+    "open_date": "Jan. 22, 2019",
+    "close_price": "$ 27.56",
+    "close_date": "Jan. 22, 2019",
+    "key_stock_data": {
+        "Best Bid / Ask": "$ 27.09 / $ 27.65",
+        "1 Year Target": "29.5",
+        "Today's High / Low": "$ 27.96 / $ 27.14",
+        "Share Volume": "10,097,124",
+        "50 Day Avg. Daily Volume": "6,046,233",
+        "Previous Close": "$ 27",
+        "52 Week High / Low": "$ 34.67 / $ 22.12",
+        "Market Cap": "18,068,766,460",
+        "P/E Ratio": "9.04",
+        "Forward P/E (1y)": "10.84",
+        "Earnings Per Share (EPS)": "$ 3.05",
+        "Annualized Dividend": "$ .88",
+        "Ex Dividend Date": "12/28/2018",
+        "Dividend Payment Date": "1/15/2019",
+        "Current Yield": "3.26 %",
+        "Beta": "0.48"
+    }
+}

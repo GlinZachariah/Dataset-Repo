@@ -1,0 +1,27 @@
+{
+    "company_name": "Huntington Bancshares Incorporated Common Stock (HBAN) Quote & Summary Data",
+    "ticker": "hban",
+    "url": "http://www.nasdaq.com/symbol/hban",
+    "open price": "$ 12.56",
+    "open_date": "Jan. 8, 2019",
+    "close_price": "$ 12.55",
+    "close_date": "Jan. 8, 2019",
+    "key_stock_data": {
+        "Best Bid / Ask": "N/A / N/A",
+        "1 Year Target": "16",
+        "Today's High / Low": "$ 12.59 / $ 12.29",
+        "Share Volume": "10,108,576",
+        "50 Day Avg. Daily Volume": "13,686,050",
+        "Previous Close": "$ 12.43",
+        "52 Week High / Low": "$ 16.60 / $ 11.12",
+        "Market Cap": "13,322,192,200",
+        "P/E Ratio": "9.8",
+        "Forward P/E (1y)": "10.19",
+        "Earnings Per Share (EPS)": "$ 1.28",
+        "Annualized Dividend": "$ .56",
+        "Ex Dividend Date": "12/17/2018",
+        "Dividend Payment Date": "1/2/2019",
+        "Current Yield": "4.52 %",
+        "Beta": "1.08"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "company_name": "Endo International plc Ordinary Shares (ENDP) Quote & Summary Data",
+    "ticker": "endp",
+    "url": "http://www.nasdaq.com/symbol/endp",
+    "open price": "$ 8.77",
+    "open_date": "Dec. 20, 2018",
+    "close_price": "$ 8.72",
+    "close_date": "Dec. 20, 2018",
+    "key_stock_data": {
+        "Best Bid / Ask": "N/A / N/A",
+        "1 Year Target": "17.5",
+        "Today's High / Low": "$ 8.94 / $ 8.195",
+        "Share Volume": "4,249,685",
+        "50 Day Avg. Daily Volume": "4,384,901",
+        "Previous Close": "$ 8.72",
+        "52 Week High / Low": "$ 18.50 / $ 5.27",
+        "Market Cap": "1,884,495,984",
+        "P/E Ratio": "NE",
+        "Forward P/E (1y)": "3.19",
+        "Earnings Per Share (EPS)": "$ -4.95",
+        "Annualized Dividend": "N/A",
+        "Ex Dividend Date": "N/A",
+        "Dividend Payment Date": "N/A",
+        "Current Yield": "0 %",
+        "Beta": "1.79"
+    }
+}

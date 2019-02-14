@@ -1,0 +1,27 @@
+{
+    "company_name": "Sirius XM Holdings Inc. Common Stock (SIRI) Quote & Summary Data",
+    "ticker": "siri",
+    "url": "http://www.nasdaq.com/symbol/siri",
+    "open price": "$ 6.04",
+    "open_date": "Feb. 5, 2019",
+    "close_price": "$ 6.04",
+    "close_date": "Feb. 5, 2019",
+    "key_stock_data": {
+        "Best Bid / Ask": "N/A / N/A",
+        "1 Year Target": "7.75",
+        "Today's High / Low": "$ 6.19 / $ 6",
+        "Share Volume": "43,624,682",
+        "50 Day Avg. Daily Volume": "27,770,936",
+        "Previous Close": "$ 6.04",
+        "52 Week High / Low": "$ 7.70 / $ 5.48",
+        "Market Cap": "26,161,578,925",
+        "P/E Ratio": "24.08",
+        "Forward P/E (1y)": "22.37",
+        "Earnings Per Share (EPS)": "$ 0.25",
+        "Annualized Dividend": "$ .05",
+        "Ex Dividend Date": "2/8/2019",
+        "Dividend Payment Date": "2/28/2019",
+        "Current Yield": "0.81 %",
+        "Beta": "0.79"
+    }
+}

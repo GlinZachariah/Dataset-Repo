@@ -1,0 +1,27 @@
+{
+    "company_name": "Novavax, Inc. Common Stock (NVAX) Quote & Summary Data",
+    "ticker": "nvax",
+    "url": "http://www.nasdaq.com/symbol/nvax",
+    "open price": "$ 2.11",
+    "open_date": "Jan. 17, 2019",
+    "close_price": "$ 2.10",
+    "close_date": "Jan. 17, 2019",
+    "key_stock_data": {
+        "Best Bid / Ask": "N/A / N/A",
+        "1 Year Target": "3.5",
+        "Today's High / Low": "$ 2.15 / $ 2.09",
+        "Share Volume": "7,145,519",
+        "50 Day Avg. Daily Volume": "8,709,861",
+        "Previous Close": "$ 2.09",
+        "52 Week High / Low": "$ 2.75 / $ 1.15",
+        "Market Cap": "803,985,263",
+        "P/E Ratio": "NE",
+        "Forward P/E (1y)": "NE",
+        "Earnings Per Share (EPS)": "$ -0.54",
+        "Annualized Dividend": "N/A",
+        "Ex Dividend Date": "N/A",
+        "Dividend Payment Date": "N/A",
+        "Current Yield": "0 %",
+        "Beta": "1.21"
+    }
+}

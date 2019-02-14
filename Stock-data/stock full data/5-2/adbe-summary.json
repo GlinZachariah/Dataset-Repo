@@ -1,0 +1,27 @@
+{
+    "company_name": "Adobe Inc. Common Stock (ADBE) Quote & Summary Data",
+    "ticker": "adbe",
+    "url": "http://www.nasdaq.com/symbol/adbe",
+    "open price": "$ 256.74",
+    "open_date": "Feb. 5, 2019",
+    "close_price": "$ 254.74",
+    "close_date": "Feb. 5, 2019",
+    "key_stock_data": {
+        "Best Bid / Ask": "N/A / N/A",
+        "1 Year Target": "293",
+        "Today's High / Low": "$ 258.56 / $ 254.01",
+        "Share Volume": "2,774,117",
+        "50 Day Avg. Daily Volume": "4,116,603",
+        "Previous Close": "$ 254.74",
+        "52 Week High / Low": "$ 277.61 / $ 179.34",
+        "Market Cap": "124,282,317,660",
+        "P/E Ratio": "48.91",
+        "Forward P/E (1y)": "41.02",
+        "Earnings Per Share (EPS)": "$ 5.21",
+        "Annualized Dividend": "N/A",
+        "Ex Dividend Date": "N/A",
+        "Dividend Payment Date": "N/A",
+        "Current Yield": "0 %",
+        "Beta": "1.26"
+    }
+}

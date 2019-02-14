@@ -1,0 +1,27 @@
+{
+    "company_name": "Cree, Inc. Common Stock (CREE) Quote & Summary Data",
+    "ticker": "cree",
+    "url": "http://www.nasdaq.com/symbol/cree",
+    "open price": "$ 46.64",
+    "open_date": "Jan. 14, 2019",
+    "close_price": "$ 46.50",
+    "close_date": "Jan. 14, 2019",
+    "key_stock_data": {
+        "Best Bid / Ask": "N/A / N/A",
+        "1 Year Target": "43.5",
+        "Today's High / Low": "$ 46.9615 / $ 45.50",
+        "Share Volume": "1,049,896",
+        "50 Day Avg. Daily Volume": "1,336,202",
+        "Previous Close": "$ 47.06",
+        "52 Week High / Low": "$ 51.78 / $ 30.78",
+        "Market Cap": "4,769,008,985",
+        "P/E Ratio": "NE",
+        "Forward P/E (1y)": "142.61",
+        "Earnings Per Share (EPS)": "$ -2.70",
+        "Annualized Dividend": "N/A",
+        "Ex Dividend Date": "N/A",
+        "Dividend Payment Date": "N/A",
+        "Current Yield": "0 %",
+        "Beta": "0.9"
+    }
+}

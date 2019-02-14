@@ -1,0 +1,27 @@
+{
+    "company_name": "Achillion Pharmaceuticals, Inc. Common Stock (ACHN) Quote & Summary Data",
+    "ticker": "achn",
+    "url": "http://www.nasdaq.com/symbol/achn",
+    "open price": "$ 1.39",
+    "open_date": "Dec. 27, 2018",
+    "close_price": "$ 1.41",
+    "close_date": "Dec. 27, 2018",
+    "key_stock_data": {
+        "Best Bid / Ask": "N/A / N/A",
+        "1 Year Target": "5",
+        "Today's High / Low": "$ 1.44 / $ 1.34",
+        "Share Volume": "3,519,259",
+        "50 Day Avg. Daily Volume": "2,452,517",
+        "Previous Close": "$ 1.41",
+        "52 Week High / Low": "$ 4.34 / $ 1.29",
+        "Market Cap": "195,448,800",
+        "P/E Ratio": "NE",
+        "Forward P/E (1y)": "NE",
+        "Earnings Per Share (EPS)": "$ -0.56",
+        "Annualized Dividend": "N/A",
+        "Ex Dividend Date": "N/A",
+        "Dividend Payment Date": "N/A",
+        "Current Yield": "0 %",
+        "Beta": "1.04"
+    }
+}

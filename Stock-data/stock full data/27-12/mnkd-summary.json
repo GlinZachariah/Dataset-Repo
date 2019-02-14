@@ -1,0 +1,22 @@
+{
+    "company_name": "MannKind Corporation Common Stock (MNKD) Quote & Summary Data",
+    "ticker": "mnkd",
+    "url": "http://www.nasdaq.com/symbol/mnkd",
+    "open price": "$ 1.05",
+    "open_date": "Dec. 27, 2018",
+    "close_price": "$ 1.02",
+    "close_date": "Dec. 27, 2018",
+    "key_stock_data": {
+        "Best Bid / Ask": "N/A / N/A",
+        "Today's High / Low": "$ 1.07 / $ 0.94",
+        "Share Volume": "4,580,244",
+        "50 Day Avg. Daily Volume": "2,315,176",
+        "Previous Close": "$ 1.05",
+        "52 Week High / Low": "$ 4.05 / $ 0.9801",
+        "Market Cap": "162,789,524",
+        "Annualized Dividend": "N/A",
+        "Ex Dividend Date": "N/A",
+        "Dividend Payment Date": "N/A",
+        "Current Yield": "0 %"
+    }
+}

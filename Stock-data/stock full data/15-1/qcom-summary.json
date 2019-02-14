@@ -1,0 +1,27 @@
+{
+    "company_name": "QUALCOMM Incorporated Common Stock (QCOM) Quote & Summary Data",
+    "ticker": "qcom",
+    "url": "http://www.nasdaq.com/symbol/qcom",
+    "open price": "$ 57.32",
+    "open_date": "Jan. 15, 2019",
+    "close_price": "$ 55.73",
+    "close_date": "Jan. 15, 2019",
+    "key_stock_data": {
+        "Best Bid / Ask": "N/A / N/A",
+        "1 Year Target": "68.5",
+        "Today's High / Low": "$ 57.40 / $ 55.56",
+        "Share Volume": "17,423,382",
+        "50 Day Avg. Daily Volume": "16,472,685",
+        "Previous Close": "$ 57.30",
+        "52 Week High / Low": "$ 76.50 / $ 48.56",
+        "Market Cap": "67,553,820,918",
+        "P/E Ratio": "NE",
+        "Forward P/E (1y)": "16.23",
+        "Earnings Per Share (EPS)": "$ -3.32",
+        "Annualized Dividend": "$ 2.48",
+        "Ex Dividend Date": "12/6/2018",
+        "Dividend Payment Date": "12/20/2018",
+        "Current Yield": "4.31 %",
+        "Beta": "1.48"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "company_name": "Intel Corporation Common Stock (INTC) Quote & Summary Data",
+    "ticker": "intc",
+    "url": "http://www.nasdaq.com/symbol/intc",
+    "open price": "$ 47.85",
+    "open_date": "Dec. 14, 2018",
+    "close_price": "$ 47.86",
+    "close_date": "Dec. 14, 2018",
+    "key_stock_data": {
+        "Best Bid / Ask": "N/A / N/A",
+        "1 Year Target": "55",
+        "Today's High / Low": "$ 48.76 / $ 47.85",
+        "Share Volume": "26,298,445",
+        "50 Day Avg. Daily Volume": "29,951,064",
+        "Previous Close": "$ 48.29",
+        "52 Week High / Low": "$ 57.5995 / $ 42.04",
+        "Market Cap": "218,433,040,000",
+        "P/E Ratio": "14.91",
+        "Forward P/E (1y)": "10.66",
+        "Earnings Per Share (EPS)": "$ 3.21",
+        "Annualized Dividend": "$ 1.20",
+        "Ex Dividend Date": "11/6/2018",
+        "Dividend Payment Date": "12/1/2018",
+        "Current Yield": "2.51 %",
+        "Beta": "1.67"
+    }
+}

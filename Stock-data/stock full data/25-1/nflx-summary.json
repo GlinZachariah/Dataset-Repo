@@ -1,0 +1,27 @@
+{
+    "company_name": "Netflix, Inc. Common Stock (NFLX) Quote & Summary Data",
+    "ticker": "nflx",
+    "url": "http://www.nasdaq.com/symbol/nflx",
+    "open price": "$ 329.13",
+    "open_date": "Jan. 25, 2019",
+    "close_price": "$ 338.05",
+    "close_date": "Jan. 25, 2019",
+    "key_stock_data": {
+        "Best Bid / Ask": "N/A / N/A",
+        "1 Year Target": "420",
+        "Today's High / Low": "$ 340 / $ 328.51",
+        "Share Volume": "11,166,508",
+        "50 Day Avg. Daily Volume": "13,604,735",
+        "Previous Close": "$ 326.67",
+        "52 Week High / Low": "$ 423.2056 / $ 231.23",
+        "Market Cap": "147,418,532,560",
+        "P/E Ratio": "126.14",
+        "Forward P/E (1y)": "81.26",
+        "Earnings Per Share (EPS)": "$ 2.68",
+        "Annualized Dividend": "N/A",
+        "Ex Dividend Date": "N/A",
+        "Dividend Payment Date": "N/A",
+        "Current Yield": "0 %",
+        "Beta": "1.64"
+    }
+}

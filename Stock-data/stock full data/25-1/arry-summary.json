@@ -1,0 +1,22 @@
+{
+    "company_name": "Array BioPharma Inc. Common Stock (ARRY) Quote & Summary Data",
+    "ticker": "arry",
+    "url": "http://www.nasdaq.com/symbol/arry",
+    "open price": "$ 17.79",
+    "open_date": "Jan. 25, 2019",
+    "close_price": "$ 17.90",
+    "close_date": "Jan. 25, 2019",
+    "key_stock_data": {
+        "Best Bid / Ask": "N/A / N/A",
+        "Today's High / Low": "$ 18.20 / $ 17.48",
+        "Share Volume": "2,687,982",
+        "50 Day Avg. Daily Volume": "2,600,303",
+        "Previous Close": "$ 17.68",
+        "52 Week High / Low": "$ 20.21 / $ 12.56",
+        "Market Cap": "3,813,990,268",
+        "Annualized Dividend": "N/A",
+        "Ex Dividend Date": "N/A",
+        "Dividend Payment Date": "N/A",
+        "Current Yield": "0 %"
+    }
+}

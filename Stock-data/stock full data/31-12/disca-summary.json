@@ -1,0 +1,27 @@
+{
+    "company_name": "Discovery, Inc. Series A Common Stock (DISCA) Quote & Summary Data",
+    "ticker": "disca",
+    "url": "http://www.nasdaq.com/symbol/disca",
+    "open price": "$ 24.92",
+    "open_date": "Dec. 31, 2018",
+    "close_price": "$ 24.74",
+    "close_date": "Dec. 31, 2018",
+    "key_stock_data": {
+        "Best Bid / Ask": "N/A / N/A",
+        "1 Year Target": "36.5",
+        "Today's High / Low": "$ 24.93 / $ 24.09",
+        "Share Volume": "4,059,680",
+        "50 Day Avg. Daily Volume": "4,723,378",
+        "Previous Close": "$ 24.64",
+        "52 Week High / Low": "$ 34.89 / $ 20.595",
+        "Market Cap": "12,951,395,616",
+        "P/E Ratio": "NE",
+        "Forward P/E (1y)": "9.06",
+        "Earnings Per Share (EPS)": "$ -1.54",
+        "Annualized Dividend": "N/A",
+        "Ex Dividend Date": "N/A",
+        "Dividend Payment Date": "N/A",
+        "Current Yield": "0 %",
+        "Beta": "0.72"
+    }
+}

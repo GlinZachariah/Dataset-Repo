@@ -1,0 +1,27 @@
+{
+    "company_name": "Geron Corporation Common Stock (GERN) Quote & Summary Data",
+    "ticker": "gern",
+    "url": "http://www.nasdaq.com/symbol/gern",
+    "open price": "$ 1.12",
+    "open_date": "Jan. 15, 2019",
+    "close_price": "$ 1.04",
+    "close_date": "Jan. 15, 2019",
+    "key_stock_data": {
+        "Best Bid / Ask": "N/A / N/A",
+        "1 Year Target": "1.5",
+        "Today's High / Low": "$ 1.1301 / $ 1.03",
+        "Share Volume": "2,198,479",
+        "50 Day Avg. Daily Volume": "3,536,200",
+        "Previous Close": "$ 1.09",
+        "52 Week High / Low": "$ 6.99 / $ 0.9547",
+        "Market Cap": "193,801,989",
+        "P/E Ratio": "NE",
+        "Forward P/E (1y)": "NE",
+        "Earnings Per Share (EPS)": "$ -0.16",
+        "Annualized Dividend": "N/A",
+        "Ex Dividend Date": "N/A",
+        "Dividend Payment Date": "N/A",
+        "Current Yield": "0 %",
+        "Beta": "1.12"
+    }
+}

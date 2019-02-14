@@ -1,0 +1,24 @@
+{
+    "company_name": "GTx, Inc. Common Stock (GTXI) Quote & Summary Data",
+    "ticker": "gtxi",
+    "url": "http://www.nasdaq.com/symbol/gtxi",
+    "open price": "$ 1.06",
+    "open_date": "Feb. 1, 2019",
+    "close_price": "$ 1.01",
+    "close_date": "Feb. 1, 2019",
+    "key_stock_data": {
+        "Best Bid / Ask": "N/A / N/A",
+        "1 Year Target": "1.75",
+        "Today's High / Low": "$ 1.06 / $ 0.98",
+        "Share Volume": "261,998",
+        "50 Day Avg. Daily Volume": "369,438",
+        "Previous Close": "$ 1.09",
+        "52 Week High / Low": "$ 25.60 / $ 0.74",
+        "Market Cap": "24,292,362",
+        "Annualized Dividend": "N/A",
+        "Ex Dividend Date": "N/A",
+        "Dividend Payment Date": "N/A",
+        "Current Yield": "0 %",
+        "Beta": "0.98"
+    }
+}

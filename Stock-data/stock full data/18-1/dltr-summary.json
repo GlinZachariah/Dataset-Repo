@@ -1,0 +1,27 @@
+{
+    "company_name": "Dollar Tree Inc. Common Stock (DLTR) Quote & Summary Data",
+    "ticker": "dltr",
+    "url": "http://www.nasdaq.com/symbol/dltr",
+    "open price": "$ 95.29",
+    "open_date": "Jan. 18, 2019",
+    "close_price": "$ 94.66",
+    "close_date": "Jan. 18, 2019",
+    "key_stock_data": {
+        "Best Bid / Ask": "N/A / N/A",
+        "1 Year Target": "98",
+        "Today's High / Low": "$ 95.74 / $ 94.49",
+        "Share Volume": "2,837,463",
+        "50 Day Avg. Daily Volume": "3,298,004",
+        "Previous Close": "$ 94.57",
+        "52 Week High / Low": "$ 116.65 / $ 78.78",
+        "Market Cap": "22,526,236,508",
+        "P/E Ratio": "12.84",
+        "Forward P/E (1y)": "17.35",
+        "Earnings Per Share (EPS)": "$ 7.37",
+        "Annualized Dividend": "N/A",
+        "Ex Dividend Date": "N/A",
+        "Dividend Payment Date": "N/A",
+        "Current Yield": "0 %",
+        "Beta": "0.61"
+    }
+}

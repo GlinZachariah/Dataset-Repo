@@ -1,0 +1,22 @@
+{
+    "company_name": "Amarin Corporation plc (AMRN) Quote & Summary Data",
+    "ticker": "amrn",
+    "url": "http://www.nasdaq.com/symbol/amrn",
+    "open price": "$ 15.15",
+    "open_date": "Dec. 20, 2018",
+    "close_price": "$ 15.02",
+    "close_date": "Dec. 20, 2018",
+    "key_stock_data": {
+        "Best Bid / Ask": "N/A / N/A",
+        "Today's High / Low": "$ 15.45 / $ 14.15",
+        "Share Volume": "6,630,855",
+        "50 Day Avg. Daily Volume": "11,506,722",
+        "Previous Close": "$ 15.02",
+        "52 Week High / Low": "$ 23.335 / $ 2.35",
+        "Market Cap": "4,824,173,240",
+        "Annualized Dividend": "N/A",
+        "Ex Dividend Date": "N/A",
+        "Dividend Payment Date": "N/A",
+        "Current Yield": "0 %"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "company_name": "Applied Materials, Inc. Common Stock (AMAT) Quote & Summary Data",
+    "ticker": "amat",
+    "url": "http://www.nasdaq.com/symbol/amat",
+    "open price": "$ 33.80",
+    "open_date": "Jan. 7, 2019",
+    "close_price": "$ 34.30",
+    "close_date": "Jan. 7, 2019",
+    "key_stock_data": {
+        "Best Bid / Ask": "N/A / N/A",
+        "1 Year Target": "46",
+        "Today's High / Low": "$ 34.7965 / $ 33.635",
+        "Share Volume": "13,868,845",
+        "50 Day Avg. Daily Volume": "13,431,816",
+        "Previous Close": "$ 33.70",
+        "52 Week High / Low": "$ 62.40 / $ 28.79",
+        "Market Cap": "32,880,188,990",
+        "P/E Ratio": "10.46",
+        "Forward P/E (1y)": "9.12",
+        "Earnings Per Share (EPS)": "$ 3.28",
+        "Annualized Dividend": "$ .80",
+        "Ex Dividend Date": "2/20/2019",
+        "Dividend Payment Date": "3/14/2019",
+        "Current Yield": "2.39 %",
+        "Beta": "1.6"
+    }
+}

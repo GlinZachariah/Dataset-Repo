@@ -1,0 +1,27 @@
+{
+    "company_name": "Steel Dynamics, Inc. (STLD) Quote & Summary Data",
+    "ticker": "stld",
+    "url": "http://www.nasdaq.com/symbol/stld",
+    "open price": "$ 29.84",
+    "open_date": "Dec. 28, 2018",
+    "close_price": "$ 29.87",
+    "close_date": "Dec. 28, 2018",
+    "key_stock_data": {
+        "Best Bid / Ask": "N/A / N/A",
+        "1 Year Target": "51",
+        "Today's High / Low": "$ 30.40 / $ 29.69",
+        "Share Volume": "1,705,488",
+        "50 Day Avg. Daily Volume": "3,047,782",
+        "Previous Close": "$ 29.7725",
+        "52 Week High / Low": "$ 52.095 / $ 28.91",
+        "Market Cap": "6,856,724,991",
+        "P/E Ratio": "5.47",
+        "Forward P/E (1y)": "5.41",
+        "Earnings Per Share (EPS)": "$ 5.46",
+        "Annualized Dividend": "$ .75",
+        "Ex Dividend Date": "12/28/2018",
+        "Dividend Payment Date": "1/11/2019",
+        "Current Yield": "2.49 %",
+        "Beta": "1.63"
+    }
+}

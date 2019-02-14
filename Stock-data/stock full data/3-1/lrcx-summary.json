@@ -1,0 +1,27 @@
+{
+    "company_name": "Lam Research Corporation Common Stock (LRCX) Quote & Summary Data",
+    "ticker": "lrcx",
+    "url": "http://www.nasdaq.com/symbol/lrcx",
+    "open price": "$ 135.20",
+    "open_date": "Jan. 3, 2019",
+    "close_price": "$ 131.63",
+    "close_date": "Jan. 3, 2019",
+    "key_stock_data": {
+        "Best Bid / Ask": "N/A / N/A",
+        "1 Year Target": "190",
+        "Today's High / Low": "$ 136.35 / $ 131.35",
+        "Share Volume": "2,109,479",
+        "50 Day Avg. Daily Volume": "2,954,866",
+        "Previous Close": "$ 138.30",
+        "52 Week High / Low": "$ 234.88 / $ 122.64",
+        "Market Cap": "20,426,712,754",
+        "P/E Ratio": "9.88",
+        "Forward P/E (1y)": "9.62",
+        "Earnings Per Share (EPS)": "$ 13.32",
+        "Annualized Dividend": "$ 4.40",
+        "Ex Dividend Date": "12/4/2018",
+        "Dividend Payment Date": "12/26/2018",
+        "Current Yield": "3.23 %",
+        "Beta": "1.74"
+    }
+}

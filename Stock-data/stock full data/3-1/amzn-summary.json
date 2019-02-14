@@ -1,0 +1,27 @@
+{
+    "company_name": "Amazon.com, Inc. Common Stock (AMZN) Quote & Summary Data",
+    "ticker": "amzn",
+    "url": "http://www.nasdaq.com/symbol/amzn",
+    "open price": "$ 1,519",
+    "open_date": "Jan. 3, 2019",
+    "close_price": "$ 1,500.28",
+    "close_date": "Jan. 3, 2019",
+    "key_stock_data": {
+        "Best Bid / Ask": "N/A / N/A",
+        "1 Year Target": "2150",
+        "Today's High / Low": "$ 1,538 / $ 1,497.11",
+        "Share Volume": "6,975,572",
+        "50 Day Avg. Daily Volume": "7,583,256",
+        "Previous Close": "$ 1,539.13",
+        "52 Week High / Low": "$ 2,050.50 / $ 1,188.30",
+        "Market Cap": "733,589,853,216",
+        "P/E Ratio": "84.1",
+        "Forward P/E (1y)": "78.97",
+        "Earnings Per Share (EPS)": "$ 17.84",
+        "Annualized Dividend": "N/A",
+        "Ex Dividend Date": "N/A",
+        "Dividend Payment Date": "N/A",
+        "Current Yield": "0 %",
+        "Beta": "1.42"
+    }
+}

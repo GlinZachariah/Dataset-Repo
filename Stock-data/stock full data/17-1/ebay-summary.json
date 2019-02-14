@@ -1,0 +1,27 @@
+{
+    "company_name": "eBay Inc. Common Stock (EBAY) Quote & Summary Data",
+    "ticker": "ebay",
+    "url": "http://www.nasdaq.com/symbol/ebay",
+    "open price": "$ 30.15",
+    "open_date": "Jan. 17, 2019",
+    "close_price": "$ 30.38",
+    "close_date": "Jan. 17, 2019",
+    "key_stock_data": {
+        "Best Bid / Ask": "N/A / N/A",
+        "1 Year Target": "35",
+        "Today's High / Low": "$ 30.55 / $ 30.06",
+        "Share Volume": "12,817,884",
+        "50 Day Avg. Daily Volume": "12,975,534",
+        "Previous Close": "$ 30.29",
+        "52 Week High / Low": "$ 46.99 / $ 26.01",
+        "Market Cap": "29,250,690,306",
+        "P/E Ratio": "NE",
+        "Forward P/E (1y)": "16.46",
+        "Earnings Per Share (EPS)": "$ -0.74",
+        "Annualized Dividend": "N/A",
+        "Ex Dividend Date": "N/A",
+        "Dividend Payment Date": "N/A",
+        "Current Yield": "0 %",
+        "Beta": "0.8"
+    }
+}
